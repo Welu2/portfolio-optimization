@@ -10,3 +10,5 @@ scikit-learn
 jupyter
 notebook
 pytest
+tensorflow
+pmdarima
