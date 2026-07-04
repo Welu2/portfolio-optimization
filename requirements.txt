@@ -12,3 +12,5 @@ notebook
 pytest
 tensorflow
 pmdarima
+PyPortfolioOpt 
+cvxpy
